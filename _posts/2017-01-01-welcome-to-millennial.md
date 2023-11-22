@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <h1> Hello World <h1>;
+title: hello world
 author: Paul Le
 categories: documentation
 tags:
