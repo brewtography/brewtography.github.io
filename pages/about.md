@@ -2,6 +2,11 @@
 layout: page
 title: About
 permalink: /about
+published: true
 ---
+##
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Firstly, welcome! 
+
+My name is Brew, I am a creative who works in the media industry and have experience professionally as a Videographer, Photographer and a nuisance; this blog exists as both an opinionated information hub and somewhat of a passion project from a creative who has always had the idea of typing up into the abyss! So please, feel free to hunker down and enjoy all that I have to offer!
+
