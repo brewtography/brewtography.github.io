@@ -9,8 +9,8 @@ google-ID: 'UA-112060364-2'
 menu:
 - {name: 'recent posts', url: 'resources'}
 - {name: 'tags',       url: 'sample-posts'}
-- {name: 'About',              url: 'about'}
-- {name: 'Contact',            url: 'contact'}
+- {name: 'about',              url: 'about'}
+- {name: 'contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
